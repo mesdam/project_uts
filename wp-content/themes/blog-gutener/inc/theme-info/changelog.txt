@@ -1,0 +1,6 @@
+= 1.0.1 =
+* Theme URI added.
+* Style updated.
+
+= 1.0.0 =
+* Initial release.
